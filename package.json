@@ -1,0 +1,23 @@
+{
+  "name": "discord clone",
+  "version": "0.0.1",
+  "description": "project #discord clone",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/digi9999/discord-clone.git"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
